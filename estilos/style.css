@@ -36,10 +36,12 @@ h1{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 1.7em;
     margin: 15px;
-    width: 300px;
+    padding: 15px;
+    width: 320px;
 }
 
 section.header p{
+    padding: 20px;
     font-size: 1.2em;
     color: white;
 }
@@ -59,7 +61,7 @@ div#container-segundario article{
     background-color: rgb(119, 0, 255);
     padding: 20px;
     border-radius: 8px;
-    color: white;
+    color: rgb(255, 255, 255);
     font-weight: bold;
     font-family: 'Courier New', Courier, monospace;
     font-size: 15pt;
@@ -105,12 +107,12 @@ section#container-formulario p{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     padding-top: 20px;
     font-size: 12pt;
-    color:black
+    color:rgb(0, 0, 0)
 }
 
 div.button button {
-    height: 40px;
-    width: 200px;
+    height: 50px;
+    width: 280px;
     background-color: rgba(119, 0, 255, 0.623);
     border: none;
     border-radius: 15px;
